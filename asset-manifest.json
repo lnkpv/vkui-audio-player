@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/vkui-audio-player/static/css/main.0797edfc.css",
-    "main.js": "/vkui-audio-player/static/js/main.ce3722ae.js",
+    "main.js": "/vkui-audio-player/static/js/main.7ed6cb29.js",
+    "static/media/Depeche_Mode_-_Enjoy_The_Silence_47960062.mp3": "/vkui-audio-player/static/media/Depeche_Mode_-_Enjoy_The_Silence_47960062.46bf8d8b616c437060f6.mp3",
     "index.html": "/vkui-audio-player/index.html",
     "main.0797edfc.css.map": "/vkui-audio-player/static/css/main.0797edfc.css.map",
-    "main.ce3722ae.js.map": "/vkui-audio-player/static/js/main.ce3722ae.js.map"
+    "main.7ed6cb29.js.map": "/vkui-audio-player/static/js/main.7ed6cb29.js.map"
   },
   "entrypoints": [
     "static/css/main.0797edfc.css",
-    "static/js/main.ce3722ae.js"
+    "static/js/main.7ed6cb29.js"
   ]
 }
