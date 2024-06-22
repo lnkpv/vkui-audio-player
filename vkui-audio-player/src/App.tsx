@@ -8,7 +8,7 @@ import {
     Panel,
     PanelHeader,
     Header,
-    Group, AdaptivityProvider, ViewWidth, ConfigProvider,
+    Group
 } from '@vkontakte/vkui';
 import '@vkontakte/vkui/dist/vkui.css';
 

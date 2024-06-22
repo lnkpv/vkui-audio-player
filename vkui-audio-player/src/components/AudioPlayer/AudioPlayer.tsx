@@ -1,6 +1,6 @@
 import React, {useRef, useEffect, useState} from 'react';
 import {observer} from 'mobx-react-lite';
-import {Image, IconButton, SimpleCell, Footnote, Headline} from '@vkontakte/vkui';
+import {Image, IconButton, SimpleCell, Footnote} from '@vkontakte/vkui';
 import audioStore from '../../stores/AudioStore';
 import {Icon20GraphOutline, Icon16MoreVertical} from '@vkontakte/icons';
 import '@vkontakte/vkui/dist/vkui.css';
@@ -78,9 +78,7 @@ const AudioPlayer: React.FC = observer(() => {
                 </IconButton>
             }
 
-            subtitle={
-                <Footnote>{audioStore.currentTrack.artist}</Footnote>
-            }
+            subtitle={audioStore.currentTrack.artist}
 
             multiline={true}
 

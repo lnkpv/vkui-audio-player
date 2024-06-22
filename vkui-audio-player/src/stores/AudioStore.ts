@@ -1,4 +1,3 @@
-// src/stores/AudioStore.ts
 import {makeAutoObservable} from 'mobx';
 import {Track} from '../types/Track';
 import {TRACKS} from "../data/tracks";
