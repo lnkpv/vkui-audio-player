@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vkui-audio-player/static/css/main.0797edfc.css",
+    "main.js": "/vkui-audio-player/static/js/main.ce3722ae.js",
+    "index.html": "/vkui-audio-player/index.html",
+    "main.0797edfc.css.map": "/vkui-audio-player/static/css/main.0797edfc.css.map",
+    "main.ce3722ae.js.map": "/vkui-audio-player/static/js/main.ce3722ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0797edfc.css",
+    "static/js/main.ce3722ae.js"
+  ]
+}
